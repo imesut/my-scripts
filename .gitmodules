@@ -1,0 +1,6 @@
+[submodule "stardate-hugo"]
+	path = stardate-hugo
+	url = https://github.com/imesut/stardate-hugo
+[submodule "Raycast_Card_Bin_Lookup_Extension"]
+	path = Raycast_Card_Bin_Lookup_Extension
+	url = https://github.com/imesut/Raycast_Card_Bin_Lookup_Extension

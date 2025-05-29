@@ -4,3 +4,6 @@
 [submodule "Raycast_Card_Bin_Lookup_Extension"]
 	path = Raycast_Card_Bin_Lookup_Extension
 	url = https://github.com/imesut/Raycast_Card_Bin_Lookup_Extension
+[submodule "uBlock"]
+	path = uBlock
+	url = https://github.com/gorhill/uBlock
